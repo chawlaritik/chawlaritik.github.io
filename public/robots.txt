@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ritikchawla.github.io/sitemap.xml
+Host: https://ritikchawla.github.io
